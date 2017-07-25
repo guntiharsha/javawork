@@ -11,8 +11,6 @@ public class PrimitiveParameters
 		System.out.println("In method go. x: " + x + " y: " + y);
 		falseSwap(x,y);
 		System.out.println("in method go. x: " + x + " y: " + y);
-		moreParameters(x,y);
-		System.out.println("in method go. x: " + x + " y: " + y);
 	}
 	
 	public static void falseSwap(int x, int y)
